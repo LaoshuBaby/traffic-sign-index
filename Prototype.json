@@ -1,0 +1,9 @@
+{
+    "_comment":"this json file is only a draft, not means production schema will like this, it only describe which kind of key should we kept",
+    "id":"the generated id of a specify sign",
+    "Country/Region(I prefer use region as key only, because some region will have different traffic rule/law, such as US, HKSAS)":"country code in UPPERCASE (or region code) such as 'CN-HK','US-CA','DE'",
+    "DisplayName":"use the language of affected country",
+    "name(osmname)":"",
+    "name:en(osmname)":"",
+    "name:local(osmname)":"",
+}
