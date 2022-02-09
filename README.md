@@ -2,7 +2,7 @@
 
 Localized traffic signs for OpenStreetMap
 
-![UK_traffic_sign_545](https://upload.wikimedia.org/wikipedia/commons/9/97/UK_traffic_sign_545.svg) ![OSMLOGO](https://www.openstreetmap.org/assets/osm_logo-9391021d40a7acdafd2ac5d5622dfe0e469c61421fdb2975365c183f5edaa270.png)
+<img alt="UK_traffic_sign_545" src="https://upload.wikimedia.org/wikipedia/commons/9/97/UK_traffic_sign_545.svg" width=60px /> <img alt="OSMLOGO" src="https://www.openstreetmap.org/assets/osm_logo-9391021d40a7acdafd2ac5d5622dfe0e469c61421fdb2975365c183f5edaa270.png" width=60px />
 
 
 ## What is it?
