@@ -13,3 +13,7 @@ traffic signs in OpenStreetMap that don't have an equivalent
 tagging scheme that's already [human-readable](https://wiki.openstreetmap.org/wiki/Key:traffic_sign#Human-readable_values).
 
 This project is similar to the [name-suggestion-index](https://github.com/osmlab/name-suggestion-index), which is a canonical list of commonly used brands, operators, and networks for OpenStreetMap.
+
+## Related
+
++ https://github.com/osmbe/traffic-sign-project
